@@ -5,8 +5,11 @@ The coding exercise is designed to test your knowledge of the dynamic programmin
 a certain problem. 
 
 ## Overview
-You are proposed to realize an approach for solving so-called Gold Mine Problem. The gold mine is presented by the matrix of dimensions $n\times m$. Each entry in this matrix contains a positive integer which is the amount of gold. The miner starts at any cell of the first column and must finish his itenerary in the last column. 
-The miner can move only right or right down from a cell to the next one. The aim is to find out the maximum amount of gold that he can gather. 
+You are proposed to realize an approach for solving so-called Gold Mine Problem. The gold mine is presented by the
+matrix of dimensions $n\times m$. Each entry in this matrix contains a positive integer which is the amount of gold. 
+The miner starts at any cell of the first column and must finish his path in the last column. 
+The miner can move only right or right down from a cell to the next one. The aim is to find out 
+the maximum amount of gold that can be gathered. 
 
 Let's consider a few examples.
 
