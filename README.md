@@ -36,8 +36,10 @@ The source matrix of sizes $4\times 4$ is:
 |  **3**  |   6 |   5 |   1 |  1  |
 |  **4**  |   7 |   1 |  1  |  1  |
 
-One of the optimal itenerary is highlighted by bold. It is not unique. Try to find out another one by yourself.
-The target value of any optimal path is equal to 14.
+One of the optimal itenerary is highlighted by bold. 
+The target value of any optimal path is equal to 14. 
+This itenerary is not unique. Try to find out another one by yourself.
+
 
 ## Modelling exercise
 - come up with the optimal substructure of the problem
