@@ -23,7 +23,7 @@ The source matrix of sizes $3\times 3$ is:
 |  **2**  |   **4** |   1 |  1  |  8  |
 |  **3**  |   1 |   **6** |   **2** |  **4**  |
 
-The optimal itenerary is highlighed by bold. The total of these items is equals to 16.
+The optimal itenerary is highlighted by bold. The total of these items is equals to 16.
 
 ### Second example
 
