@@ -23,7 +23,7 @@ The source matrix of sizes $3\times 3$ is:
 |  **2**  | **4** |   1   |   1   |   8   |
 |  **3**  |   1   | **6** | **2** | **4** |
 
-The optimal itenerary is highlighted by bold. The total of these items is equals to 16.
+The optimal itinerary is highlighted by bold. The total of these items is equals to 16.
 
 ### Second example
 
@@ -36,9 +36,9 @@ The source matrix of sizes $4\times 4$ is:
 |  **3**  |   6   |   5   |   1   |   1   |
 |  **4**  |   7   |   1   |   1   |   1   |
 
-One of the optimal itenerary is highlighted by bold. 
+One of the optimal itinerary is highlighted by bold. 
 The target value of any optimal path is equal to 14. 
-This itenerary is not unique. Try to find out another one by yourself.
+This itinerary is not unique. Try to find out another one by yourself.
 
 
 ## Modelling exercise
