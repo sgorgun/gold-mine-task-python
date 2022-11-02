@@ -21,7 +21,8 @@ the maximum amount of gold that can be gathered.
 ## Coding exercise
 
 Carry out the following exercise to prove that your ideas proposed in modelling exercise 
-are correct and efficient. Your aim is to implement the following function:
+are correct and efficient. Your aim is to implement the following function that
+must return the maximum number of gold that can be gathered by the miner.
 
 ```python
 def get_gold_count(mines: list[list[int]]) -> int:
@@ -31,6 +32,8 @@ def get_gold_count(mines: list[list[int]]) -> int:
     """
     pass
 ```
+
+
 
 It is guaranteed that the dimensions of mine matrix are not less than 1.
 
