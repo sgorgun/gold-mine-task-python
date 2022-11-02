@@ -22,7 +22,7 @@ the maximum amount of gold that can be gathered.
 
 Carry out the following exercise to prove that your ideas proposed in modelling exercise 
 are correct and efficient. Your aim is to implement the following function that
-must return the maximum number of gold that can be gathered by the miner.
+must return the maximum number of gold that can be gathered by the miner:
 
 ```python
 def get_gold_count(mines: list[list[int]]) -> int:
