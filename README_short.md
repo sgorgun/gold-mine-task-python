@@ -1,25 +1,12 @@
-# The Gold Mine Problem
+# Elements of dynamical programming
 
 ## Purpose
-The coding exercise is designed to test your knowledge of the dynamic programming for solving
-a certain problem. 
+
+The coding exercise is designed to test knowledge of the following concepts:
+* Dynamical Programming
+* Optimal substructure
 
 ## Overview
-You are proposed to realize an approach for solving so-called Gold Mine Problem. The gold mine is presented by the
-matrix of dimensions $n \times m$. Each entry in this matrix contains a positive integer which is the amount of gold. 
-The miner starts at any cell of the first column and must finish his path in the last column. 
-The miner can move only right or right down from one cell to the next one. The aim is to find out 
-the maximum amount of gold that can be gathered.  It is guaranteed that the dimensions of mine matrix are not less than 1.
 
-## Modelling exercise
-- come up with the optimal substructure of the problem
-- select suitable data structure for storing sub-problems
-- realize an approach for computing the optimal substructure
-- find out the sub-problem that gives the maximum amount of gold
-
-## Coding exercise
-
- Your aim is to implement the function `get_gold_count()` that computes the 
-the maximum amount of gold which can be gathered by the miner according to your ideas proposed in the modeling exercise.
-
-Please use a template for the implementation `(task/solution.py:get_gold_count)`.
+The coding exercise covers the following practical problem:
+* The Gold Mine Problem
