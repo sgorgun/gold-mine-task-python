@@ -25,11 +25,11 @@ The Gold Mine Problem could be defined as follows:
 
 The first part of the exercise is for you to think on how to approach the Gold Mine Problem (described above) using dynamical programming.
 
-The second part of the exercise is for you to implement the following function that finds the maximal amount of gold that could be gathered
+The second part of the exercise is for you to implement the following function that finds the maximum amount of gold that could be gathered
 
 ```python
-def get_gold_count(mines: List[List[int]]) -> int:
-    """Returns the maximal amount of gold that could be gathered by the miner.
+def get_maximum_amount_of_gold(mines: List[List[int]]) -> int:
+    """Returns the maximum amount of gold that could be gathered by the miner.
     
     The rules for mining:
     * each entry of a given matrix accounts for amount of gold that could be gathered in there
@@ -39,10 +39,9 @@ def get_gold_count(mines: List[List[int]]) -> int:
     Args:
         mines: List[List[int]], a given mines configuration with corresponding amounts of gold for each mine
     Returns:
-        int, the maximal amount of gold that could be gathered.
+        int, the maximum amount of gold that could be gathered.
     """
     pass
-
 ```
 
 
@@ -74,4 +73,4 @@ The target value of any optimal path is equal to 14.
 
 <br>
 
-Please use a template for the implementation `(task/gold_mine.py:get_gold_count)`.
+Please use the template `task/gold_mine.py:get_maximum_amount_of_gold` for the implementation.
