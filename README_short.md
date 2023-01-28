@@ -2,11 +2,10 @@
 
 ## Purpose
 
-The coding exercise is designed to test knowledge of the following concepts:
-* Dynamical Programming
+The coding exercise is designed to test your knowledge of the following concepts:
+* Dynamic Programming
 * Optimal substructure
 
 ## Overview
 
-The coding exercise covers the following practical problem:
-* The Gold Mine Problem
+The coding exercise covers the Gold Mine problem.
